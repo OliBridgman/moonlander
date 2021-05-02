@@ -13,7 +13,6 @@ export default function Moon() {
       geometry={nodes.Cube008.geometry}
       material={nodes.Cube008.material}
       scale={0.01}
-    />
-     
+     />
   )
 }
